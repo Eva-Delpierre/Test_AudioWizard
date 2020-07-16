@@ -1,0 +1,48 @@
+.logo {
+    width: 40px;
+    margin-left: 40px ;
+}
+
+.icon {
+    margin-right: 5px;
+}
+
+.sidebar {
+    background-color: #F8F9FA;
+    /* background-color: blueviolet; */
+    width: 160px;
+    height: 1000px;
+}
+
+.main {
+    background-color: coral;
+    margin: 0;
+    height: 1000px;
+}
+
+.blocMenu {
+    width: 130px;
+    margin-left: 10px;
+    margin-top: 15px;
+    border: 2px solid #b7cee5;
+    border-radius: 8px;
+}
+
+.patient-form {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.input-item {
+    text-align: center;
+    padding: 10px;
+}
+
+.btn {
+    margin: 10px;
+}
+
+.final {
+    text-align: center;
+    margin-top: 150px;
+}
